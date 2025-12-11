@@ -1,8 +1,31 @@
+# Core
 fastapi
 uvicorn[standard]
+pydantic
+pydantic-settings
 
-pydantic>=2.4.1,<2.12
-pydantic-settings==2.5.2
+# OpenAI для Cloud.ru
+openai
 
+# AI/ML
 httpx
+
+# Testing
+pytest
+pytest-asyncio
+allure-pytest
+
+# Parsing & Validation
 PyYAML
+openapi-spec-validator
+
+# Logging & Monitoring
+loguru
+
+# Utilities
+python-multipart
+python-dotenv
+
+# Code Quality
+black
+isort

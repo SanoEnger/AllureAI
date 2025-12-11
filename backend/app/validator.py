@@ -2,6 +2,9 @@ import ast
 
 from schemas import ValidationIssue, ValidationReport
 
+from loguru import logger
+
+logger.add("logs/app.log", rotation="500 MB", retention="10 days")
 
 class TestCaseValidator(ast.NodeVisitor):
     def __init__(self) -> None:

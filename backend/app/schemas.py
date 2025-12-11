@@ -1,6 +1,9 @@
 from typing import Any, Literal
 from pydantic import BaseModel, Field
 
+from loguru import logger
+
+logger.add("logs/app.log", rotation="500 MB", retention="10 days")
 
 class GenerateTestcaseRequest(BaseModel):
     test_type: Literal["ui", "api"] = Field(description="Тип тест-кейса")

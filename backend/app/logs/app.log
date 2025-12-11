@@ -1,0 +1,1124 @@
+2025-12-09 22:43:05.771 | INFO     | llm_client:__init__:40 - Инициализирован LLMClient для https://example.com/llm-endpoint
+2025-12-09 22:43:05.771 | INFO     | llm_client:__init__:40 - Инициализирован LLMClient для https://example.com/llm-endpoint
+2025-12-09 22:43:05.883 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-09 22:43:05.883 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-09 22:43:05.883 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-09 22:43:05.883 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-09 22:43:36.829 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-09 22:43:36.829 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-09 22:43:36.829 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-09 22:43:36.829 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-09 22:43:36.829 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-09 22:43:36.829 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-09 22:43:36.829 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-09 22:43:36.829 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-09 22:43:36.833 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-09 22:43:36.833 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-09 22:43:36.833 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-09 22:43:36.833 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-09 22:43:36.833 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-09 22:43:36.833 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-09 22:43:36.833 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-09 22:43:36.833 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-09 22:44:39.929 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-09 22:44:39.929 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-09 22:44:39.929 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-09 22:44:39.929 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-09 22:44:39.929 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-09 22:44:39.929 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-09 22:44:39.929 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-09 22:44:39.929 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-09 22:44:39.982 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.065s
+2025-12-09 22:44:39.982 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.065s
+2025-12-09 22:44:39.982 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.065s
+2025-12-09 22:44:39.982 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.065s
+2025-12-09 22:44:39.982 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.065s
+2025-12-09 22:44:39.982 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.065s
+2025-12-09 22:44:39.982 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.065s
+2025-12-09 22:44:39.982 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.065s
+2025-12-09 23:00:22.716 | INFO     | llm_client:__init__:40 - Инициализирован LLMClient для https://example.com/llm-endpoint
+2025-12-09 23:00:22.716 | INFO     | llm_client:__init__:40 - Инициализирован LLMClient для https://example.com/llm-endpoint
+2025-12-09 23:00:22.777 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-09 23:00:22.777 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-09 23:00:22.777 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-09 23:00:22.777 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 00:12:49.677 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 00:12:49.677 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 00:12:49.677 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 00:12:49.677 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 00:12:49.677 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 00:12:49.677 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 00:12:49.677 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 00:12:49.677 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 00:12:49.801 | INFO     | testcase_generator:generate_testcase:59 - Генерация тест-кейса типа: ui
+2025-12-10 00:12:49.801 | INFO     | testcase_generator:generate_testcase:59 - Генерация тест-кейса типа: ui
+2025-12-10 00:12:49.801 | INFO     | testcase_generator:generate_testcase:59 - Генерация тест-кейса типа: ui
+2025-12-10 00:12:49.801 | INFO     | testcase_generator:generate_testcase:59 - Генерация тест-кейса типа: ui
+2025-12-10 00:12:49.801 | INFO     | testcase_generator:generate_testcase:59 - Генерация тест-кейса типа: ui
+2025-12-10 00:12:49.801 | INFO     | testcase_generator:generate_testcase:59 - Генерация тест-кейса типа: ui
+2025-12-10 00:12:49.801 | INFO     | testcase_generator:generate_testcase:59 - Генерация тест-кейса типа: ui
+2025-12-10 00:12:49.801 | INFO     | testcase_generator:generate_testcase:59 - Генерация тест-кейса типа: ui
+2025-12-10 00:12:49.804 | DEBUG    | testcase_generator:generate_testcase:122 - Отправка промпта LLM, длина: 1406 символов
+2025-12-10 00:12:49.804 | DEBUG    | testcase_generator:generate_testcase:122 - Отправка промпта LLM, длина: 1406 символов
+2025-12-10 00:12:49.804 | DEBUG    | testcase_generator:generate_testcase:122 - Отправка промпта LLM, длина: 1406 символов
+2025-12-10 00:12:49.804 | DEBUG    | testcase_generator:generate_testcase:122 - Отправка промпта LLM, длина: 1406 символов
+2025-12-10 00:12:49.804 | DEBUG    | testcase_generator:generate_testcase:122 - Отправка промпта LLM, длина: 1406 символов
+2025-12-10 00:12:49.804 | DEBUG    | testcase_generator:generate_testcase:122 - Отправка промпта LLM, длина: 1406 символов
+2025-12-10 00:12:49.804 | DEBUG    | testcase_generator:generate_testcase:122 - Отправка промпта LLM, длина: 1406 символов
+2025-12-10 00:12:49.804 | DEBUG    | testcase_generator:generate_testcase:122 - Отправка промпта LLM, длина: 1406 символов
+2025-12-10 00:12:49.840 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 1)
+2025-12-10 00:12:49.840 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 1)
+2025-12-10 00:12:49.840 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 1)
+2025-12-10 00:12:49.840 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 1)
+2025-12-10 00:12:49.840 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 1)
+2025-12-10 00:12:49.840 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 1)
+2025-12-10 00:12:49.840 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 1)
+2025-12-10 00:12:49.840 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 1)
+2025-12-10 00:13:25.562 | WARNING  | llm_client:_request_with_retry:128 - Таймаут при запросе к LLM (попытка 1)
+2025-12-10 00:13:25.562 | WARNING  | llm_client:_request_with_retry:128 - Таймаут при запросе к LLM (попытка 1)
+2025-12-10 00:13:25.562 | WARNING  | llm_client:_request_with_retry:128 - Таймаут при запросе к LLM (попытка 1)
+2025-12-10 00:13:25.562 | WARNING  | llm_client:_request_with_retry:128 - Таймаут при запросе к LLM (попытка 1)
+2025-12-10 00:13:25.562 | WARNING  | llm_client:_request_with_retry:128 - Таймаут при запросе к LLM (попытка 1)
+2025-12-10 00:13:25.562 | WARNING  | llm_client:_request_with_retry:128 - Таймаут при запросе к LLM (попытка 1)
+2025-12-10 00:13:25.562 | WARNING  | llm_client:_request_with_retry:128 - Таймаут при запросе к LLM (попытка 1)
+2025-12-10 00:13:25.562 | WARNING  | llm_client:_request_with_retry:128 - Таймаут при запросе к LLM (попытка 1)
+2025-12-10 00:13:25.634 | WARNING  | llm_client:_request_with_retry:93 - Повторная попытка 2/3 через 2 сек
+2025-12-10 00:13:25.634 | WARNING  | llm_client:_request_with_retry:93 - Повторная попытка 2/3 через 2 сек
+2025-12-10 00:13:25.634 | WARNING  | llm_client:_request_with_retry:93 - Повторная попытка 2/3 через 2 сек
+2025-12-10 00:13:25.634 | WARNING  | llm_client:_request_with_retry:93 - Повторная попытка 2/3 через 2 сек
+2025-12-10 00:13:25.634 | WARNING  | llm_client:_request_with_retry:93 - Повторная попытка 2/3 через 2 сек
+2025-12-10 00:13:25.634 | WARNING  | llm_client:_request_with_retry:93 - Повторная попытка 2/3 через 2 сек
+2025-12-10 00:13:25.634 | WARNING  | llm_client:_request_with_retry:93 - Повторная попытка 2/3 через 2 сек
+2025-12-10 00:13:25.634 | WARNING  | llm_client:_request_with_retry:93 - Повторная попытка 2/3 через 2 сек
+2025-12-10 00:13:27.657 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 2)
+2025-12-10 00:13:27.657 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 2)
+2025-12-10 00:13:27.657 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 2)
+2025-12-10 00:13:27.657 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 2)
+2025-12-10 00:13:27.657 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 2)
+2025-12-10 00:13:27.657 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 2)
+2025-12-10 00:13:27.657 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 2)
+2025-12-10 00:13:27.657 | DEBUG    | llm_client:_request_with_retry:103 - Отправка запроса к LLM (попытка 2)
+2025-12-10 00:13:28.723 | ERROR    | llm_client:_request_with_retry:131 - HTTP ошибка 403: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;llm&#45;endpoint" on this server.<P>
+Reference&#32;&#35;18&#46;85f6d517&#46;1765307607&#46;c8b38345
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;85f6d517&#46;1765307607&#46;c8b38345</P>
+</BODY>
+</HTML>
+
+2025-12-10 00:13:28.723 | ERROR    | llm_client:_request_with_retry:131 - HTTP ошибка 403: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;llm&#45;endpoint" on this server.<P>
+Reference&#32;&#35;18&#46;85f6d517&#46;1765307607&#46;c8b38345
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;85f6d517&#46;1765307607&#46;c8b38345</P>
+</BODY>
+</HTML>
+
+2025-12-10 00:13:28.723 | ERROR    | llm_client:_request_with_retry:131 - HTTP ошибка 403: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;llm&#45;endpoint" on this server.<P>
+Reference&#32;&#35;18&#46;85f6d517&#46;1765307607&#46;c8b38345
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;85f6d517&#46;1765307607&#46;c8b38345</P>
+</BODY>
+</HTML>
+
+2025-12-10 00:13:28.723 | ERROR    | llm_client:_request_with_retry:131 - HTTP ошибка 403: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;llm&#45;endpoint" on this server.<P>
+Reference&#32;&#35;18&#46;85f6d517&#46;1765307607&#46;c8b38345
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;85f6d517&#46;1765307607&#46;c8b38345</P>
+</BODY>
+</HTML>
+
+2025-12-10 00:13:28.723 | ERROR    | llm_client:_request_with_retry:131 - HTTP ошибка 403: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;llm&#45;endpoint" on this server.<P>
+Reference&#32;&#35;18&#46;85f6d517&#46;1765307607&#46;c8b38345
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;85f6d517&#46;1765307607&#46;c8b38345</P>
+</BODY>
+</HTML>
+
+2025-12-10 00:13:28.723 | ERROR    | llm_client:_request_with_retry:131 - HTTP ошибка 403: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;llm&#45;endpoint" on this server.<P>
+Reference&#32;&#35;18&#46;85f6d517&#46;1765307607&#46;c8b38345
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;85f6d517&#46;1765307607&#46;c8b38345</P>
+</BODY>
+</HTML>
+
+2025-12-10 00:13:28.723 | ERROR    | llm_client:_request_with_retry:131 - HTTP ошибка 403: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;llm&#45;endpoint" on this server.<P>
+Reference&#32;&#35;18&#46;85f6d517&#46;1765307607&#46;c8b38345
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;85f6d517&#46;1765307607&#46;c8b38345</P>
+</BODY>
+</HTML>
+
+2025-12-10 00:13:28.723 | ERROR    | llm_client:_request_with_retry:131 - HTTP ошибка 403: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;llm&#45;endpoint" on this server.<P>
+Reference&#32;&#35;18&#46;85f6d517&#46;1765307607&#46;c8b38345
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;85f6d517&#46;1765307607&#46;c8b38345</P>
+</BODY>
+</HTML>
+
+2025-12-10 00:13:28.732 | ERROR    | llm_client:generate:226 - Ошибка генерации: LLM запрос не удался после 3 попыток: Client error '403 Forbidden' for url 'https://example.com/llm-endpoint'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403, время: 38923.6ms
+2025-12-10 00:13:28.732 | ERROR    | llm_client:generate:226 - Ошибка генерации: LLM запрос не удался после 3 попыток: Client error '403 Forbidden' for url 'https://example.com/llm-endpoint'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403, время: 38923.6ms
+2025-12-10 00:13:28.732 | ERROR    | llm_client:generate:226 - Ошибка генерации: LLM запрос не удался после 3 попыток: Client error '403 Forbidden' for url 'https://example.com/llm-endpoint'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403, время: 38923.6ms
+2025-12-10 00:13:28.732 | ERROR    | llm_client:generate:226 - Ошибка генерации: LLM запрос не удался после 3 попыток: Client error '403 Forbidden' for url 'https://example.com/llm-endpoint'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403, время: 38923.6ms
+2025-12-10 00:13:28.732 | ERROR    | llm_client:generate:226 - Ошибка генерации: LLM запрос не удался после 3 попыток: Client error '403 Forbidden' for url 'https://example.com/llm-endpoint'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403, время: 38923.6ms
+2025-12-10 00:13:28.732 | ERROR    | llm_client:generate:226 - Ошибка генерации: LLM запрос не удался после 3 попыток: Client error '403 Forbidden' for url 'https://example.com/llm-endpoint'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403, время: 38923.6ms
+2025-12-10 00:13:28.732 | ERROR    | llm_client:generate:226 - Ошибка генерации: LLM запрос не удался после 3 попыток: Client error '403 Forbidden' for url 'https://example.com/llm-endpoint'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403, время: 38923.6ms
+2025-12-10 00:13:28.732 | ERROR    | llm_client:generate:226 - Ошибка генерации: LLM запрос не удался после 3 попыток: Client error '403 Forbidden' for url 'https://example.com/llm-endpoint'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403, время: 38923.6ms
+2025-12-10 00:13:28.736 | DEBUG    | testcase_generator:generate_testcase:124 - Получен ответ LLM, длина: 817 символов
+2025-12-10 00:13:28.736 | DEBUG    | testcase_generator:generate_testcase:124 - Получен ответ LLM, длина: 817 символов
+2025-12-10 00:13:28.736 | DEBUG    | testcase_generator:generate_testcase:124 - Получен ответ LLM, длина: 817 символов
+2025-12-10 00:13:28.736 | DEBUG    | testcase_generator:generate_testcase:124 - Получен ответ LLM, длина: 817 символов
+2025-12-10 00:13:28.736 | DEBUG    | testcase_generator:generate_testcase:124 - Получен ответ LLM, длина: 817 символов
+2025-12-10 00:13:28.736 | DEBUG    | testcase_generator:generate_testcase:124 - Получен ответ LLM, длина: 817 символов
+2025-12-10 00:13:28.736 | DEBUG    | testcase_generator:generate_testcase:124 - Получен ответ LLM, длина: 817 символов
+2025-12-10 00:13:28.736 | DEBUG    | testcase_generator:generate_testcase:124 - Получен ответ LLM, длина: 817 символов
+2025-12-10 00:13:28.740 | DEBUG    | testcase_generator:generate_testcase:127 - Извлечен код, длина: 816 символов
+2025-12-10 00:13:28.740 | DEBUG    | testcase_generator:generate_testcase:127 - Извлечен код, длина: 816 символов
+2025-12-10 00:13:28.740 | DEBUG    | testcase_generator:generate_testcase:127 - Извлечен код, длина: 816 символов
+2025-12-10 00:13:28.740 | DEBUG    | testcase_generator:generate_testcase:127 - Извлечен код, длина: 816 символов
+2025-12-10 00:13:28.740 | DEBUG    | testcase_generator:generate_testcase:127 - Извлечен код, длина: 816 символов
+2025-12-10 00:13:28.740 | DEBUG    | testcase_generator:generate_testcase:127 - Извлечен код, длина: 816 символов
+2025-12-10 00:13:28.740 | DEBUG    | testcase_generator:generate_testcase:127 - Извлечен код, длина: 816 символов
+2025-12-10 00:13:28.740 | DEBUG    | testcase_generator:generate_testcase:127 - Извлечен код, длина: 816 символов
+2025-12-10 00:13:28.800 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 39.130s
+2025-12-10 00:13:28.800 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 39.130s
+2025-12-10 00:13:28.800 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 39.130s
+2025-12-10 00:13:28.800 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 39.130s
+2025-12-10 00:13:28.800 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 39.130s
+2025-12-10 00:13:28.800 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 39.130s
+2025-12-10 00:13:28.800 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 39.130s
+2025-12-10 00:13:28.800 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 39.130s
+2025-12-10 00:23:41.764 | INFO     | llm_client:__init__:40 - Инициализирован LLMClient для https://foundation-models.api.cloud.ru/v1
+2025-12-10 00:23:41.764 | INFO     | llm_client:__init__:40 - Инициализирован LLMClient для https://foundation-models.api.cloud.ru/v1
+2025-12-10 00:23:41.913 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 00:23:41.913 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 00:23:41.913 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 00:23:41.913 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 01:57:51.352 | INFO     | llm_client:__init__:43 - Инициализирован LLMClient для Cloud.ru GigaChat
+2025-12-10 01:57:51.354 | INFO     | llm_client:__init__:44 - API URL: https://foundation-models.api.cloud.ru/v1
+2025-12-10 01:57:51.355 | INFO     | llm_client:__init__:45 - Модель: GigaChat3-10B-A1.8B
+2025-12-10 01:57:51.452 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 01:57:51.452 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 01:57:51.452 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 01:58:23.304 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-10 01:58:23.304 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-10 01:58:23.304 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-10 01:58:23.304 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-10 01:58:23.304 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-10 01:58:23.304 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-10 01:58:23.304 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-10 01:58:23.356 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.061s
+2025-12-10 01:58:23.356 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.061s
+2025-12-10 01:58:23.356 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.061s
+2025-12-10 01:58:23.356 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.061s
+2025-12-10 01:58:23.356 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.061s
+2025-12-10 01:58:23.356 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.061s
+2025-12-10 01:58:23.356 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.061s
+2025-12-10 02:00:41.548 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:00:41.548 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:00:41.548 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:00:41.548 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:00:41.548 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:00:41.548 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:00:41.548 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:00:41.630 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:00:41.630 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:00:41.630 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:00:41.630 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:00:41.630 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:00:41.630 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:00:41.630 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:00:41.641 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:00:41.641 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:00:41.641 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:00:41.641 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:00:41.641 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:00:41.641 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:00:41.641 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:00:41.670 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:00:41.670 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:00:41.670 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:00:41.670 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:00:41.670 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:00:41.670 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:00:41.670 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:00:42.256 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:00:42.256 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:00:42.256 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:00:42.256 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:00:42.256 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:00:42.256 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:00:42.256 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:00:42.257 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:00:42.257 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:00:42.257 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:00:42.257 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:00:42.257 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:00:42.257 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:00:42.257 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:00:42.257 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 609.7ms
+2025-12-10 02:00:42.257 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 609.7ms
+2025-12-10 02:00:42.257 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 609.7ms
+2025-12-10 02:00:42.257 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 609.7ms
+2025-12-10 02:00:42.257 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 609.7ms
+2025-12-10 02:00:42.257 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 609.7ms
+2025-12-10 02:00:42.257 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 609.7ms
+2025-12-10 02:00:42.259 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:00:42.259 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:00:42.259 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:00:42.259 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:00:42.259 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:00:42.259 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:00:42.259 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:00:42.260 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:00:42.260 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:00:42.260 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:00:42.260 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:00:42.260 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:00:42.260 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:00:42.260 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:00:42.271 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.729s
+2025-12-10 02:00:42.271 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.729s
+2025-12-10 02:00:42.271 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.729s
+2025-12-10 02:00:42.271 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.729s
+2025-12-10 02:00:42.271 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.729s
+2025-12-10 02:00:42.271 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.729s
+2025-12-10 02:00:42.271 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.729s
+2025-12-10 02:14:33.354 | INFO     | llm_client:__init__:43 - Инициализирован LLMClient для Cloud.ru GigaChat
+2025-12-10 02:14:33.355 | INFO     | llm_client:__init__:44 - API URL: https://foundation-models.api.cloud.ru/v1
+2025-12-10 02:14:33.355 | INFO     | llm_client:__init__:45 - Модель: GigaChat3-10B-A1.8B
+2025-12-10 02:14:33.419 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 02:14:33.419 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 02:14:33.419 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 02:14:49.170 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:14:49.170 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:14:49.170 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:14:49.170 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:14:49.170 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:14:49.170 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:14:49.170 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:14:49.174 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:14:49.174 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:14:49.174 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:14:49.174 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:14:49.174 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:14:49.174 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:14:49.174 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:14:49.176 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:14:49.176 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:14:49.176 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:14:49.176 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:14:49.176 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:14:49.176 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:14:49.176 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:14:49.178 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:14:49.178 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:14:49.178 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:14:49.178 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:14:49.178 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:14:49.178 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:14:49.178 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:14:49.721 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:14:49.721 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:14:49.721 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:14:49.721 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:14:49.721 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:14:49.721 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:14:49.721 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:14:49.722 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:14:49.722 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:14:49.722 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:14:49.722 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:14:49.722 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:14:49.722 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:14:49.722 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:14:49.722 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 545.7ms
+2025-12-10 02:14:49.722 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 545.7ms
+2025-12-10 02:14:49.722 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 545.7ms
+2025-12-10 02:14:49.722 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 545.7ms
+2025-12-10 02:14:49.722 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 545.7ms
+2025-12-10 02:14:49.722 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 545.7ms
+2025-12-10 02:14:49.722 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 545.7ms
+2025-12-10 02:14:49.723 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:14:49.723 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:14:49.723 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:14:49.723 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:14:49.723 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:14:49.723 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:14:49.723 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:14:49.724 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:14:49.724 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:14:49.724 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:14:49.724 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:14:49.724 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:14:49.724 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:14:49.724 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:14:49.728 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.558s
+2025-12-10 02:14:49.728 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.558s
+2025-12-10 02:14:49.728 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.558s
+2025-12-10 02:14:49.728 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.558s
+2025-12-10 02:14:49.728 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.558s
+2025-12-10 02:14:49.728 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.558s
+2025-12-10 02:14:49.728 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.558s
+2025-12-10 02:17:36.434 | INFO     | llm_client:__init__:43 - Инициализирован LLMClient для Cloud.ru GigaChat
+2025-12-10 02:17:36.436 | INFO     | llm_client:__init__:44 - API URL: https://foundation-models.api.cloud.ru/v1
+2025-12-10 02:17:36.436 | INFO     | llm_client:__init__:45 - Модель: GigaChat3-10B-A1.8B
+2025-12-10 02:17:36.500 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 02:17:36.500 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 02:17:36.500 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 02:18:01.203 | INFO     | llm_client:__init__:43 - Инициализирован LLMClient для Cloud.ru GigaChat
+2025-12-10 02:18:01.204 | INFO     | llm_client:__init__:44 - API URL: https://foundation-models.api.cloud.ru/v1
+2025-12-10 02:18:01.205 | INFO     | llm_client:__init__:45 - Модель: GigaChat3-10B-A1.8B
+2025-12-10 02:18:01.262 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 02:18:01.262 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 02:18:01.262 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 02:19:24.990 | INFO     | llm_client:__init__:43 - Инициализирован LLMClient для Cloud.ru GigaChat
+2025-12-10 02:19:24.991 | INFO     | llm_client:__init__:44 - API URL: https://foundation-models.api.cloud.ru/v1
+2025-12-10 02:19:24.991 | INFO     | llm_client:__init__:45 - Модель: GigaChat3-10B-A1.8B
+2025-12-10 02:19:25.047 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 02:19:25.047 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 02:19:25.047 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-10 02:19:32.179 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:19:32.179 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:19:32.179 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:19:32.179 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:19:32.179 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:19:32.179 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:19:32.179 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-10 02:19:32.183 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:19:32.183 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:19:32.183 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:19:32.183 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:19:32.183 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:19:32.183 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:19:32.183 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-10 02:19:32.185 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:19:32.185 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:19:32.185 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:19:32.185 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:19:32.185 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:19:32.185 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:19:32.185 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-10 02:19:32.187 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:19:32.187 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:19:32.187 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:19:32.187 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:19:32.187 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:19:32.187 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:19:32.187 | DEBUG    | llm_client:_request_cloudru_gigachat:120 - Отправка запроса к Cloud.ru GigaChat (попытка 1)
+2025-12-10 02:19:32.514 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:19:32.514 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:19:32.514 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:19:32.514 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:19:32.514 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:19:32.514 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:19:32.514 | ERROR    | llm_client:_request_cloudru_gigachat:169 - HTTP ошибка 404: {"error_msg":"404 Not Found"}
+
+2025-12-10 02:19:32.515 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:19:32.515 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:19:32.515 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:19:32.515 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:19:32.515 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:19:32.515 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:19:32.515 | ERROR    | llm_client:_request_cloudru_gigachat:179 - Endpoint не найден. Проверьте LLM_BASE_URL
+2025-12-10 02:19:32.516 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 330.1ms
+2025-12-10 02:19:32.516 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 330.1ms
+2025-12-10 02:19:32.516 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 330.1ms
+2025-12-10 02:19:32.516 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 330.1ms
+2025-12-10 02:19:32.516 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 330.1ms
+2025-12-10 02:19:32.516 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 330.1ms
+2025-12-10 02:19:32.516 | ERROR    | llm_client:generate:298 - Ошибка генерации Cloud.ru GigaChat: Запрос к Cloud.ru GigaChat не удался после 3 попыток: Client error '404 Not Found' for url 'https://foundation-models.api.cloud.ru/v1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404, время: 330.1ms
+2025-12-10 02:19:32.516 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:19:32.516 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:19:32.516 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:19:32.516 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:19:32.516 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:19:32.516 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:19:32.516 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 906 символов
+2025-12-10 02:19:32.517 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:19:32.517 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:19:32.517 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:19:32.517 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:19:32.517 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:19:32.517 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:19:32.517 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 905 символов
+2025-12-10 02:19:32.521 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.342s
+2025-12-10 02:19:32.521 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.342s
+2025-12-10 02:19:32.521 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.342s
+2025-12-10 02:19:32.521 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.342s
+2025-12-10 02:19:32.521 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.342s
+2025-12-10 02:19:32.521 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.342s
+2025-12-10 02:19:32.521 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 0.342s
+2025-12-11 17:36:46.701 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-11 17:36:46.701 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-11 17:36:46.768 | INFO     | __main__:<module>:151 - Запуск DevTuls Backend with Cloud.ru GigaChat v1.0.0
+2025-12-11 17:36:46.768 | INFO     | __main__:<module>:151 - Запуск DevTuls Backend with Cloud.ru GigaChat v1.0.0
+2025-12-11 17:36:46.768 | INFO     | __main__:<module>:151 - Запуск DevTuls Backend with Cloud.ru GigaChat v1.0.0
+2025-12-11 17:36:46.768 | INFO     | __main__:<module>:151 - Запуск DevTuls Backend with Cloud.ru GigaChat v1.0.0
+2025-12-11 17:36:46.768 | INFO     | __main__:<module>:151 - Запуск DevTuls Backend with Cloud.ru GigaChat v1.0.0
+2025-12-11 17:36:46.768 | INFO     | __main__:<module>:151 - Запуск DevTuls Backend with Cloud.ru GigaChat v1.0.0
+2025-12-11 17:36:48.322 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-11 17:36:48.322 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-11 17:37:14.970 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 17:37:14.970 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 17:37:14.970 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 17:37:14.970 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 17:37:14.970 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 17:37:14.970 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 17:37:14.970 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 17:37:14.975 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 17:37:14.975 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 17:37:14.975 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 17:37:14.975 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 17:37:14.975 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 17:37:14.975 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 17:37:14.975 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 17:37:14.976 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-11 17:37:14.976 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-11 17:37:14.976 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-11 17:37:14.976 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-11 17:37:14.976 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-11 17:37:14.976 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-11 17:37:14.976 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1104 символов
+2025-12-11 17:37:14.978 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:14.978 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:14.978 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:14.978 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:14.978 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:14.978 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:14.978 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:17.161 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 1469 символов
+2025-12-11 17:37:17.161 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 1469 символов
+2025-12-11 17:37:17.161 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 1469 символов
+2025-12-11 17:37:17.161 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 1469 символов
+2025-12-11 17:37:17.161 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 1469 символов
+2025-12-11 17:37:17.161 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 1469 символов
+2025-12-11 17:37:17.161 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 1469 символов
+2025-12-11 17:37:17.162 | INFO     | llm_client:generate:200 - Добавлено в кэш: b5731c01deed1298
+2025-12-11 17:37:17.162 | INFO     | llm_client:generate:200 - Добавлено в кэш: b5731c01deed1298
+2025-12-11 17:37:17.162 | INFO     | llm_client:generate:200 - Добавлено в кэш: b5731c01deed1298
+2025-12-11 17:37:17.162 | INFO     | llm_client:generate:200 - Добавлено в кэш: b5731c01deed1298
+2025-12-11 17:37:17.162 | INFO     | llm_client:generate:200 - Добавлено в кэш: b5731c01deed1298
+2025-12-11 17:37:17.162 | INFO     | llm_client:generate:200 - Добавлено в кэш: b5731c01deed1298
+2025-12-11 17:37:17.162 | INFO     | llm_client:generate:200 - Добавлено в кэш: b5731c01deed1298
+2025-12-11 17:37:17.163 | INFO     | llm_client:generate:228 - Генерация завершена: 2185.7ms, длина ответа: 1455, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:17.163 | INFO     | llm_client:generate:228 - Генерация завершена: 2185.7ms, длина ответа: 1455, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:17.163 | INFO     | llm_client:generate:228 - Генерация завершена: 2185.7ms, длина ответа: 1455, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:17.163 | INFO     | llm_client:generate:228 - Генерация завершена: 2185.7ms, длина ответа: 1455, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:17.163 | INFO     | llm_client:generate:228 - Генерация завершена: 2185.7ms, длина ответа: 1455, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:17.163 | INFO     | llm_client:generate:228 - Генерация завершена: 2185.7ms, длина ответа: 1455, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:17.163 | INFO     | llm_client:generate:228 - Генерация завершена: 2185.7ms, длина ответа: 1455, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 1455 символов
+2025-12-11 17:37:17.164 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 1455 символов
+2025-12-11 17:37:17.167 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 2.197s
+2025-12-11 17:37:17.167 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 2.197s
+2025-12-11 17:37:17.167 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 2.197s
+2025-12-11 17:37:17.167 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 2.197s
+2025-12-11 17:37:17.167 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 2.197s
+2025-12-11 17:37:17.167 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 2.197s
+2025-12-11 17:37:17.167 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 2.197s
+2025-12-11 18:56:02.886 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.886 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.886 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.886 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.886 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.886 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.886 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.902 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.902 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.902 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.902 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.902 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.902 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.902 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.064s
+2025-12-11 18:56:02.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.064s
+2025-12-11 18:56:02.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.064s
+2025-12-11 18:56:02.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.064s
+2025-12-11 18:56:02.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.064s
+2025-12-11 18:56:02.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.064s
+2025-12-11 18:56:02.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.064s
+2025-12-11 18:56:02.945 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.043s
+2025-12-11 18:56:02.945 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.043s
+2025-12-11 18:56:02.945 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.043s
+2025-12-11 18:56:02.945 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.043s
+2025-12-11 18:56:02.945 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.043s
+2025-12-11 18:56:02.945 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.043s
+2025-12-11 18:56:02.945 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.043s
+2025-12-11 18:56:02.949 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.949 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.949 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.949 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.949 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.949 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.949 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:02.955 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.955 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.955 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.955 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.955 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.955 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.955 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:02.956 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.008s
+2025-12-11 18:56:02.956 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.008s
+2025-12-11 18:56:02.956 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.008s
+2025-12-11 18:56:02.956 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.008s
+2025-12-11 18:56:02.956 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.008s
+2025-12-11 18:56:02.956 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.008s
+2025-12-11 18:56:02.956 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.008s
+2025-12-11 18:56:02.966 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.011s
+2025-12-11 18:56:02.966 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.011s
+2025-12-11 18:56:02.966 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.011s
+2025-12-11 18:56:02.966 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.011s
+2025-12-11 18:56:02.966 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.011s
+2025-12-11 18:56:02.966 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.011s
+2025-12-11 18:56:02.966 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.011s
+2025-12-11 18:56:09.986 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:09.986 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:09.986 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:09.986 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:09.986 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:09.986 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:09.986 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:09.988 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:09.988 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:09.988 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:09.988 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:09.988 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:09.988 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:09.988 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:09.989 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.003s
+2025-12-11 18:56:09.989 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.003s
+2025-12-11 18:56:09.989 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.003s
+2025-12-11 18:56:09.989 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.003s
+2025-12-11 18:56:09.989 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.003s
+2025-12-11 18:56:09.989 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.003s
+2025-12-11 18:56:09.989 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.003s
+2025-12-11 18:56:09.991 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.003s
+2025-12-11 18:56:09.991 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.003s
+2025-12-11 18:56:09.991 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.003s
+2025-12-11 18:56:09.991 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.003s
+2025-12-11 18:56:09.991 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.003s
+2025-12-11 18:56:09.991 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.003s
+2025-12-11 18:56:09.991 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.003s
+2025-12-11 18:56:10.005 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:10.005 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:10.005 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:10.005 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:10.005 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:10.005 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:10.005 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:56:10.014 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:10.014 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:10.014 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:10.014 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:10.014 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:10.014 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:10.014 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:56:10.018 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.013s
+2025-12-11 18:56:10.018 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.013s
+2025-12-11 18:56:10.018 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.013s
+2025-12-11 18:56:10.018 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.013s
+2025-12-11 18:56:10.018 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.013s
+2025-12-11 18:56:10.018 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.013s
+2025-12-11 18:56:10.018 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.013s
+2025-12-11 18:56:10.023 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 18:56:10.023 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 18:56:10.023 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 18:56:10.023 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 18:56:10.023 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 18:56:10.023 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 18:56:10.023 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 18:59:25.997 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:25.997 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:25.997 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:25.997 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:25.997 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:25.997 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:25.997 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:25.999 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:25.999 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:25.999 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:25.999 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:25.999 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:25.999 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:25.999 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:26.001 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 18:59:26.001 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 18:59:26.001 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 18:59:26.001 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 18:59:26.001 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 18:59:26.001 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 18:59:26.001 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 18:59:26.003 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 18:59:26.003 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 18:59:26.003 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 18:59:26.003 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 18:59:26.003 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 18:59:26.003 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 18:59:26.003 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 18:59:26.015 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:26.015 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:26.015 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:26.015 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:26.015 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:26.015 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:26.015 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 18:59:26.016 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:26.016 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:26.016 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:26.016 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:26.016 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:26.016 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:26.016 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 18:59:26.020 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.005s
+2025-12-11 18:59:26.020 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.005s
+2025-12-11 18:59:26.020 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.005s
+2025-12-11 18:59:26.020 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.005s
+2025-12-11 18:59:26.020 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.005s
+2025-12-11 18:59:26.020 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.005s
+2025-12-11 18:59:26.020 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.005s
+2025-12-11 18:59:26.026 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.010s
+2025-12-11 18:59:26.026 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.010s
+2025-12-11 18:59:26.026 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.010s
+2025-12-11 18:59:26.026 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.010s
+2025-12-11 18:59:26.026 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.010s
+2025-12-11 18:59:26.026 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.010s
+2025-12-11 18:59:26.026 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.010s
+2025-12-11 19:55:50.863 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-11 19:55:50.863 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-11 19:55:50.986 | INFO     | __main__:<module>:151 - Запуск DevTuls Backend with Cloud.ru GigaChat v1.0.0
+2025-12-11 19:55:50.986 | INFO     | __main__:<module>:151 - Запуск DevTuls Backend with Cloud.ru GigaChat v1.0.0
+2025-12-11 19:55:50.986 | INFO     | __main__:<module>:151 - Запуск DevTuls Backend with Cloud.ru GigaChat v1.0.0
+2025-12-11 19:55:50.986 | INFO     | __main__:<module>:151 - Запуск DevTuls Backend with Cloud.ru GigaChat v1.0.0
+2025-12-11 19:55:50.986 | INFO     | __main__:<module>:151 - Запуск DevTuls Backend with Cloud.ru GigaChat v1.0.0
+2025-12-11 19:55:50.986 | INFO     | __main__:<module>:151 - Запуск DevTuls Backend with Cloud.ru GigaChat v1.0.0
+2025-12-11 19:55:53.478 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-11 19:55:53.478 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-11 19:57:37.489 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 19:57:37.489 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 19:57:37.489 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 19:57:37.489 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 19:57:37.489 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 19:57:37.489 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 19:57:37.489 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 127.0.0.1
+2025-12-11 19:57:37.495 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 19:57:37.495 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 19:57:37.495 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 19:57:37.495 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 19:57:37.495 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 19:57:37.495 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 19:57:37.495 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 19:57:37.497 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 19:57:37.497 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 19:57:37.497 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 19:57:37.497 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 19:57:37.497 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 19:57:37.497 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 19:57:37.497 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 19:57:37.502 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:37.502 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:37.502 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:37.502 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:37.502 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:37.502 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:37.502 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:46.639 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 8314 символов
+2025-12-11 19:57:46.639 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 8314 символов
+2025-12-11 19:57:46.639 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 8314 символов
+2025-12-11 19:57:46.639 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 8314 символов
+2025-12-11 19:57:46.639 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 8314 символов
+2025-12-11 19:57:46.639 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 8314 символов
+2025-12-11 19:57:46.639 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 8314 символов
+2025-12-11 19:57:46.640 | INFO     | llm_client:generate:200 - Добавлено в кэш: 78726ea8f4a1c367
+2025-12-11 19:57:46.640 | INFO     | llm_client:generate:200 - Добавлено в кэш: 78726ea8f4a1c367
+2025-12-11 19:57:46.640 | INFO     | llm_client:generate:200 - Добавлено в кэш: 78726ea8f4a1c367
+2025-12-11 19:57:46.640 | INFO     | llm_client:generate:200 - Добавлено в кэш: 78726ea8f4a1c367
+2025-12-11 19:57:46.640 | INFO     | llm_client:generate:200 - Добавлено в кэш: 78726ea8f4a1c367
+2025-12-11 19:57:46.640 | INFO     | llm_client:generate:200 - Добавлено в кэш: 78726ea8f4a1c367
+2025-12-11 19:57:46.640 | INFO     | llm_client:generate:200 - Добавлено в кэш: 78726ea8f4a1c367
+2025-12-11 19:57:46.641 | INFO     | llm_client:generate:228 - Генерация завершена: 9139.0ms, длина ответа: 8287, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:46.641 | INFO     | llm_client:generate:228 - Генерация завершена: 9139.0ms, длина ответа: 8287, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:46.641 | INFO     | llm_client:generate:228 - Генерация завершена: 9139.0ms, длина ответа: 8287, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:46.641 | INFO     | llm_client:generate:228 - Генерация завершена: 9139.0ms, длина ответа: 8287, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:46.641 | INFO     | llm_client:generate:228 - Генерация завершена: 9139.0ms, длина ответа: 8287, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:46.641 | INFO     | llm_client:generate:228 - Генерация завершена: 9139.0ms, длина ответа: 8287, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:46.641 | INFO     | llm_client:generate:228 - Генерация завершена: 9139.0ms, длина ответа: 8287, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 19:57:46.641 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 8287 символов
+2025-12-11 19:57:46.641 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 8287 символов
+2025-12-11 19:57:46.641 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 8287 символов
+2025-12-11 19:57:46.641 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 8287 символов
+2025-12-11 19:57:46.641 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 8287 символов
+2025-12-11 19:57:46.641 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 8287 символов
+2025-12-11 19:57:46.641 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 8287 символов
+2025-12-11 19:57:46.642 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 8287 символов
+2025-12-11 19:57:46.642 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 8287 символов
+2025-12-11 19:57:46.642 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 8287 символов
+2025-12-11 19:57:46.642 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 8287 символов
+2025-12-11 19:57:46.642 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 8287 символов
+2025-12-11 19:57:46.642 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 8287 символов
+2025-12-11 19:57:46.642 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 8287 символов
+2025-12-11 19:57:46.645 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 9.157s
+2025-12-11 19:57:46.645 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 9.157s
+2025-12-11 19:57:46.645 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 9.157s
+2025-12-11 19:57:46.645 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 9.157s
+2025-12-11 19:57:46.645 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 9.157s
+2025-12-11 19:57:46.645 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 9.157s
+2025-12-11 19:57:46.645 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 9.157s
+2025-12-11 20:02:13.653 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.653 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.653 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.653 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.653 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.653 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.653 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.657 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.657 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.657 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.657 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.657 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.657 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.657 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.658 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.658 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.658 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.658 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.658 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.658 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.658 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.659 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:02:13.659 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:02:13.659 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:02:13.659 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:02:13.659 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:02:13.659 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:02:13.659 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:02:13.662 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.662 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.662 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.662 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.662 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.662 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.662 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.664 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:02:13.664 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:02:13.664 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:02:13.664 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:02:13.664 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:02:13.664 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:02:13.664 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:02:13.722 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.722 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.722 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.722 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.722 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.722 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.722 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:02:13.724 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.724 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.724 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.724 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.724 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.724 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.724 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:02:13.725 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.725 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.725 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.725 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.725 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.725 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.725 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:02:13.726 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:02:13.726 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:02:13.726 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:02:13.726 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:02:13.726 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:02:13.726 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:02:13.726 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:02:13.728 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.728 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.728 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.728 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.728 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.728 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.728 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.004s
+2025-12-11 20:02:13.734 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 20:02:13.734 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 20:02:13.734 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 20:02:13.734 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 20:02:13.734 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 20:02:13.734 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 20:02:13.734 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.009s
+2025-12-11 20:02:29.132 | INFO     | middleware:log_requests:22 - ← [unknown] POST /validate/testcase from 127.0.0.1
+2025-12-11 20:02:29.132 | INFO     | middleware:log_requests:22 - ← [unknown] POST /validate/testcase from 127.0.0.1
+2025-12-11 20:02:29.132 | INFO     | middleware:log_requests:22 - ← [unknown] POST /validate/testcase from 127.0.0.1
+2025-12-11 20:02:29.132 | INFO     | middleware:log_requests:22 - ← [unknown] POST /validate/testcase from 127.0.0.1
+2025-12-11 20:02:29.132 | INFO     | middleware:log_requests:22 - ← [unknown] POST /validate/testcase from 127.0.0.1
+2025-12-11 20:02:29.132 | INFO     | middleware:log_requests:22 - ← [unknown] POST /validate/testcase from 127.0.0.1
+2025-12-11 20:02:29.132 | INFO     | middleware:log_requests:22 - ← [unknown] POST /validate/testcase from 127.0.0.1
+2025-12-11 20:02:29.136 | INFO     | middleware:log_requests:41 - → [unknown] POST /validate/testcase 200 in 0.004s
+2025-12-11 20:02:29.136 | INFO     | middleware:log_requests:41 - → [unknown] POST /validate/testcase 200 in 0.004s
+2025-12-11 20:02:29.136 | INFO     | middleware:log_requests:41 - → [unknown] POST /validate/testcase 200 in 0.004s
+2025-12-11 20:02:29.136 | INFO     | middleware:log_requests:41 - → [unknown] POST /validate/testcase 200 in 0.004s
+2025-12-11 20:02:29.136 | INFO     | middleware:log_requests:41 - → [unknown] POST /validate/testcase 200 in 0.004s
+2025-12-11 20:02:29.136 | INFO     | middleware:log_requests:41 - → [unknown] POST /validate/testcase 200 in 0.004s
+2025-12-11 20:02:29.136 | INFO     | middleware:log_requests:41 - → [unknown] POST /validate/testcase 200 in 0.004s
+2025-12-11 20:03:29.231 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.231 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.231 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.231 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.231 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.231 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.231 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.232 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.232 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.232 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.232 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.232 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.232 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.232 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.234 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.234 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.234 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.234 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.234 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.234 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.234 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.235 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:03:29.235 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:03:29.235 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:03:29.235 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:03:29.235 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:03:29.235 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:03:29.235 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.004s
+2025-12-11 20:03:29.237 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 20:03:29.237 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 20:03:29.237 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 20:03:29.237 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 20:03:29.237 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 20:03:29.237 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 20:03:29.237 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.005s
+2025-12-11 20:03:29.239 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.005s
+2025-12-11 20:03:29.239 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.005s
+2025-12-11 20:03:29.239 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.005s
+2025-12-11 20:03:29.239 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.005s
+2025-12-11 20:03:29.239 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.005s
+2025-12-11 20:03:29.239 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.005s
+2025-12-11 20:03:29.239 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.005s
+2025-12-11 20:03:29.241 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.241 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.241 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.241 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.241 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.241 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.241 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:03:29.243 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.243 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.243 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.243 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.243 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.243 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.243 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:03:29.244 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.003s
+2025-12-11 20:03:29.244 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.003s
+2025-12-11 20:03:29.244 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.003s
+2025-12-11 20:03:29.244 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.003s
+2025-12-11 20:03:29.244 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.003s
+2025-12-11 20:03:29.244 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.003s
+2025-12-11 20:03:29.244 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.003s
+2025-12-11 20:03:29.247 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.247 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.247 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.247 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.247 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.247 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.247 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:03:29.249 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:03:29.249 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:03:29.249 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:03:29.249 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:03:29.249 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:03:29.249 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:03:29.249 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.006s
+2025-12-11 20:03:29.258 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.011s
+2025-12-11 20:03:29.258 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.011s
+2025-12-11 20:03:29.258 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.011s
+2025-12-11 20:03:29.258 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.011s
+2025-12-11 20:03:29.258 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.011s
+2025-12-11 20:03:29.258 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.011s
+2025-12-11 20:03:29.258 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.011s
+2025-12-11 20:12:01.846 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.846 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.846 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.846 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.846 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.846 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.846 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.847 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.847 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.847 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.847 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.847 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.847 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.847 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.849 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.849 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.849 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.849 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.849 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.849 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.849 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.851 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:12:01.851 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:12:01.851 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:12:01.851 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:12:01.851 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:12:01.851 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:12:01.851 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.005s
+2025-12-11 20:12:01.862 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.015s
+2025-12-11 20:12:01.862 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.015s
+2025-12-11 20:12:01.862 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.015s
+2025-12-11 20:12:01.862 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.015s
+2025-12-11 20:12:01.862 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.015s
+2025-12-11 20:12:01.862 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.015s
+2025-12-11 20:12:01.862 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.015s
+2025-12-11 20:12:01.885 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.035s
+2025-12-11 20:12:01.885 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.035s
+2025-12-11 20:12:01.885 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.035s
+2025-12-11 20:12:01.885 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.035s
+2025-12-11 20:12:01.885 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.035s
+2025-12-11 20:12:01.885 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.035s
+2025-12-11 20:12:01.885 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.035s
+2025-12-11 20:12:01.958 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.958 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.958 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.958 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.958 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.958 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.958 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics from 127.0.0.1
+2025-12-11 20:12:01.961 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.961 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.961 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.961 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.961 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.961 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.961 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/prometheus from 127.0.0.1
+2025-12-11 20:12:01.962 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.962 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.962 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.962 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.962 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.962 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.962 | INFO     | middleware:log_requests:22 - ← [unknown] GET /metrics/summary from 127.0.0.1
+2025-12-11 20:12:01.974 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.016s
+2025-12-11 20:12:01.974 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.016s
+2025-12-11 20:12:01.974 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.016s
+2025-12-11 20:12:01.974 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.016s
+2025-12-11 20:12:01.974 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.016s
+2025-12-11 20:12:01.974 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.016s
+2025-12-11 20:12:01.974 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics 200 in 0.016s
+2025-12-11 20:12:01.979 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.018s
+2025-12-11 20:12:01.979 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.018s
+2025-12-11 20:12:01.979 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.018s
+2025-12-11 20:12:01.979 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.018s
+2025-12-11 20:12:01.979 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.018s
+2025-12-11 20:12:01.979 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.018s
+2025-12-11 20:12:01.979 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/prometheus 200 in 0.018s
+2025-12-11 20:12:01.987 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.024s
+2025-12-11 20:12:01.987 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.024s
+2025-12-11 20:12:01.987 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.024s
+2025-12-11 20:12:01.987 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.024s
+2025-12-11 20:12:01.987 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.024s
+2025-12-11 20:12:01.987 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.024s
+2025-12-11 20:12:01.987 | INFO     | middleware:log_requests:41 - → [unknown] GET /metrics/summary 200 in 0.024s
