@@ -1,0 +1,86 @@
+2025-12-11 16:33:31.753 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-11 16:33:31.753 | INFO     | metrics:__init__:41 - Инициализирован MetricsCollector
+2025-12-11 16:33:32.930 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 16:33:32.930 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 16:33:32.930 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 16:33:32.930 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 16:33:32.930 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 16:33:32.930 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 16:33:32.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.010s
+2025-12-11 16:33:32.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.010s
+2025-12-11 16:33:32.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.010s
+2025-12-11 16:33:32.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.010s
+2025-12-11 16:33:32.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.010s
+2025-12-11 16:33:32.940 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.010s
+2025-12-11 16:33:57.569 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 172.18.0.1
+2025-12-11 16:33:57.569 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 172.18.0.1
+2025-12-11 16:33:57.569 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 172.18.0.1
+2025-12-11 16:33:57.569 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 172.18.0.1
+2025-12-11 16:33:57.569 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 172.18.0.1
+2025-12-11 16:33:57.569 | INFO     | middleware:log_requests:22 - ← [unknown] POST /generate/testcase from 172.18.0.1
+2025-12-11 16:33:57.577 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 16:33:57.577 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 16:33:57.577 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 16:33:57.577 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 16:33:57.577 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 16:33:57.577 | INFO     | testcase_generator:generate_testcase:46 - Генерация тест-кейса типа: ui через Cloud.ru GigaChat
+2025-12-11 16:33:57.580 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 16:33:57.580 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 16:33:57.580 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 16:33:57.580 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 16:33:57.580 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 16:33:57.580 | DEBUG    | testcase_generator:generate_testcase:69 - Отправка промпта Cloud.ru GigaChat, длина: 1461 символов
+2025-12-11 16:33:57.585 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 16:33:57.585 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 16:33:57.585 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 16:33:57.585 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 16:33:57.585 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 16:33:57.585 | DEBUG    | llm_client:_generate_with_openai:105 - Отправка запроса к Cloud.ru GigaChat, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 16:34:03.259 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 16:34:03.259 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 16:34:03.259 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 16:34:03.259 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 16:34:03.259 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 16:34:03.259 | INFO     | middleware:log_requests:22 - ← [unknown] GET /health from 127.0.0.1
+2025-12-11 16:34:03.263 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 16:34:03.263 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 16:34:03.263 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 16:34:03.263 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 16:34:03.263 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 16:34:03.263 | INFO     | middleware:log_requests:41 - → [unknown] GET /health 200 in 0.004s
+2025-12-11 16:34:03.481 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 5590 символов
+2025-12-11 16:34:03.481 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 5590 символов
+2025-12-11 16:34:03.481 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 5590 символов
+2025-12-11 16:34:03.481 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 5590 символов
+2025-12-11 16:34:03.481 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 5590 символов
+2025-12-11 16:34:03.481 | DEBUG    | llm_client:_generate_with_openai:121 - Получен ответ от Cloud.ru GigaChat, длина: 5590 символов
+2025-12-11 16:34:03.484 | INFO     | llm_client:generate:200 - Добавлено в кэш: 2dd985d97587cd26
+2025-12-11 16:34:03.484 | INFO     | llm_client:generate:200 - Добавлено в кэш: 2dd985d97587cd26
+2025-12-11 16:34:03.484 | INFO     | llm_client:generate:200 - Добавлено в кэш: 2dd985d97587cd26
+2025-12-11 16:34:03.484 | INFO     | llm_client:generate:200 - Добавлено в кэш: 2dd985d97587cd26
+2025-12-11 16:34:03.484 | INFO     | llm_client:generate:200 - Добавлено в кэш: 2dd985d97587cd26
+2025-12-11 16:34:03.484 | INFO     | llm_client:generate:200 - Добавлено в кэш: 2dd985d97587cd26
+2025-12-11 16:34:03.488 | INFO     | llm_client:generate:228 - Генерация завершена: 5903.2ms, длина ответа: 5576, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 16:34:03.488 | INFO     | llm_client:generate:228 - Генерация завершена: 5903.2ms, длина ответа: 5576, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 16:34:03.488 | INFO     | llm_client:generate:228 - Генерация завершена: 5903.2ms, длина ответа: 5576, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 16:34:03.488 | INFO     | llm_client:generate:228 - Генерация завершена: 5903.2ms, длина ответа: 5576, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 16:34:03.488 | INFO     | llm_client:generate:228 - Генерация завершена: 5903.2ms, длина ответа: 5576, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 16:34:03.488 | INFO     | llm_client:generate:228 - Генерация завершена: 5903.2ms, длина ответа: 5576, кэш: miss, модель: ai-sage/GigaChat3-10B-A1.8B
+2025-12-11 16:34:03.491 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 5576 символов
+2025-12-11 16:34:03.491 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 5576 символов
+2025-12-11 16:34:03.491 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 5576 символов
+2025-12-11 16:34:03.491 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 5576 символов
+2025-12-11 16:34:03.491 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 5576 символов
+2025-12-11 16:34:03.491 | DEBUG    | testcase_generator:generate_testcase:79 - Получен ответ от Cloud.ru GigaChat, длина: 5576 символов
+2025-12-11 16:34:03.495 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 5576 символов
+2025-12-11 16:34:03.495 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 5576 символов
+2025-12-11 16:34:03.495 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 5576 символов
+2025-12-11 16:34:03.495 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 5576 символов
+2025-12-11 16:34:03.495 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 5576 символов
+2025-12-11 16:34:03.495 | DEBUG    | testcase_generator:generate_testcase:82 - Извлечен код, длина: 5576 символов
+2025-12-11 16:34:03.498 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 5.930s
+2025-12-11 16:34:03.498 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 5.930s
+2025-12-11 16:34:03.498 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 5.930s
+2025-12-11 16:34:03.498 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 5.930s
+2025-12-11 16:34:03.498 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 5.930s
+2025-12-11 16:34:03.498 | INFO     | middleware:log_requests:41 - → [unknown] POST /generate/testcase 200 in 5.930s
